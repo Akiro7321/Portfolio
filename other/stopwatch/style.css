@@ -1,0 +1,43 @@
+
+body {
+    height: 100vh;
+    color: white;
+    font-size: 4rem;
+}
+
+
+.flex-container {
+    background-color: orange;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-container {
+    padding: 50px;
+}
+
+.timer-container {
+    padding: 50px;
+}
+
+.buttons-container {
+    padding: 50px;
+    font-size: 4rem;
+}
+
+.buttons-container button {
+    font-size: 2rem;
+    padding: 20px;
+    width: 200px;
+    border-radius: 5px;
+    border-style: none;
+    border: 1px solid white;
+    color: white;
+    background-color: orange;
+}
+.buttons-container button:hover {
+    background-color: rgb(220, 143, 0);
+}

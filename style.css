@@ -68,6 +68,9 @@ a {
   height: 200px;
   margin: 50px;
 }
-.project-container img{
+.project-container a{
   width: 95%;
+}
+.project-container img{
+  width: 100%;
 }

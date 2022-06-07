@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+h1 {
+    color: rgb(166, 166, 249);
+    font-size: 12rem;
+    font-family: 'Bebas Neue', cursive;
+}
+
